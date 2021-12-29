@@ -60,7 +60,7 @@ public class Solution {
 
     // Approach #1 : Using queue
     /*
-    Explanation - Keeping track of the elements less than x in "lesser" Queye
+    Explanation - Keeping track of the elements less than x in "lesser" Queue
     and of the elements greater than x in the "higher" Queue. Queue is the
     appropriate Data structure as the ordering has to be guaranteed. Normal array
     would also work instead of queue.
